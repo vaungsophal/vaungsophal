@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sophal.vaung) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sophal-vaung) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sophal.vaung) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/21vpowei) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sophal-vaung) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sophalvaung@gmail.com) 
 
 ### 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
 ### 📊 GitHub Stats:
-![](https://streak-stats.demolab.com/?user=vaungsophal&theme=dark&hide_border=true)<br/>
+![](https://streak-stats.demolab.com/?user=vaungsophal&theme=neon&hide_border=true)<br/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
