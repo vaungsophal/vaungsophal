@@ -1,9 +1,4 @@
-
-readme_content = '''<div align="center">
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--  CREATIVE HEADER — ASCII ART + ANIMATED BADGES                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<div align="center">
 
 <pre>
 ╔══════════════════════════════════════════════════════════════════════╗
@@ -19,12 +14,10 @@ readme_content = '''<div align="center">
 ╚══════════════════════════════════════════════════════════════════════╝
 </pre>
 
-<!-- Typing subtitle -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=a78bfa&center=true&vCenter=true&width=500&lines=def+build_the_future():+pass;while+True:+learn();+create();+ship();pip+install+intelligence;import+torch;model.train();rm+-rf+/doubt;git+commit+-m+%22ship+it%22" alt="typing" />
 
 <br>
 
-<!-- Socials — compact row -->
 <a href="https://linkedin.com/in/sophal-vaung"><img src="https://img.shields.io/badge/🔗_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:sophalvaung@gmail.com"><img src="https://img.shields.io/badge/📧_Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 <a href="https://buymeacoffee.com/vaungsophal"><img src="https://img.shields.io/badge/☕_Buy_Me_A_Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" /></a>
@@ -51,75 +44,76 @@ I architect **scalable systems** and train **intelligent models**. My sweet spot
 
 ---
 
-### ⚡ current_status
+### ⚡ git status
 
-```diff
-+ 🔭 shipping full-stack apps with AI integration
-+ 🌱 diving deep into LLM fine-tuning & MLOps
-+ 👯 open to collaborate on AI × SaaS projects
-+ 🧠 exploring multimodal models & vector databases
-! ⚡ fun fact: my best bugs become my best features
+```text
+On branch main
+Your branch is ahead of 'origin/main' by 5 commits.
+
+Changes to be committed:
+  🚀  feat:      shipping AI-integrated full-stack apps
+  🌱  learn:     diving into LLM fine-tuning & MLOps
+  🤝  collab:    open to AI × SaaS projects
+  🔬  explore:   multimodal models & vector databases
+
+Untracked files:
+  ⚡  fun-fact:  my best bugs become my best features
 ```
 
 ---
 
 ### 🛠️ tech_stack
 
-<!-- ═══════ AI / ML ═══════ -->
 **🧠 intelligence layer**
 
-<code><img height="22" src="https://cdn.simpleicons.org/python/3776AB" /></code>
-<code><img height="22" src="https://cdn.simpleicons.org/pytorch/EE4C2C" /></code>
-<code><img height="22" src="https://cdn.simpleicons.org/tensorflow/FF6F00" /></code>
-<code><img height="22" src="https://cdn.simpleicons.org/keras/D00000" /></code>
-<code><img height="22" src="https://cdn.simpleicons.org/scikitlearn/F7931E" /></code>
-<code><img height="22" src="https://cdn.simpleicons.org/pandas/150458" /></code>
-<code><img height="22" src="https://cdn.simpleicons.org/numpy/013243" /></code>
-<code><img height="22" src="https://cdn.simpleicons.org/scipy/0C55A5" /></code>
-<code><img height="22" src="https://cdn.simpleicons.org/mlflow/0194E2" /></code>
-<code><img height="22" src="https://cdn.simpleicons.org/plotly/3F4F75" /></code>
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://tensorflow.org)
+[![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)](https://keras.io)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org)
+[![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=flat-square&logo=scipy&logoColor=white)](https://scipy.org)
+[![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)](https://mlflow.org)
+[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)](https://plotly.com)
 
-<!-- ═══════ BACKEND ═══════ -->
 **⚙️ engine room**
 
-<code><img height="22" src="https://cdn.simpleicons.org/java/ED8B00" /></code>
-<code><img height="22" src="https://cdn.simpleicons.org/csharp/239120" /></code>
-<code><img height="22" src="https://cdn.simpleicons.org/dotnet/5C2D91" /></code>
-<code><img height="22" src="https://cdn.simpleicons.org/fastapi/009688" /></code>
-<code><img height="22" src="https://cdn.simpleicons.org/flask/000000" /></code>
-<code><img height="22" src="https://cdn.simpleicons.org/express/404D59" /></code>
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://java.com)
+[![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp)
+[![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com)
+[![Express.js](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)](https://expressjs.com)
 
-<!-- ═══════ FRONTEND ═══════ -->
 **🎨 user surface**
 
-<code><img height="22" src="https://cdn.simpleicons.org/react/61DAFB" /></code>
-<code><img height="22" src="https://cdn.simpleicons.org/nextdotjs/000000" /></code>
-<code><img height="22" src="https://cdn.simpleicons.org/vuedotjs/4FC08D" /></code>
-<code><img height="22" src="https://cdn.simpleicons.org/angular/DD0031" /></code>
-<code><img height="22" src="https://cdn.simpleicons.org/flutter/02569B" /></code>
-<code><img height="22" src="https://cdn.simpleicons.org/vite/646CFF" /></code>
-<code><img height="22" src="https://cdn.simpleicons.org/figma/F24E1E" /></code>
+[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org)
+[![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org)
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)](https://angular.io)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://figma.com)
 
-<!-- ═══════ CLOUD & DATA ═══════ -->
 **☁️ infrastructure**
 
-<code><img height="22" src="https://cdn.simpleicons.org/amazonwebservices/FF9900" /></code>
-<code><img height="22" src="https://cdn.simpleicons.org/microsoftazure/0072C6" /></code>
-<code><img height="22" src="https://cdn.simpleicons.org/googlecloud/4285F4" /></code>
-<code><img height="22" src="https://cdn.simpleicons.org/digitalocean/0080FF" /></code>
-<code><img height="22" src="https://cdn.simpleicons.org/docker/0db7ed" /></code>
-<code><img height="22" src="https://cdn.simpleicons.org/nginx/009639" /></code>
-<code><img height="22" src="https://cdn.simpleicons.org/vercel/000000" /></code>
-<code><img height="22" src="https://cdn.simpleicons.org/cloudflare/F38020" /></code>
-<code><img height="22" src="https://cdn.simpleicons.org/git/F05033" /></code>
-<code><img height="22" src="https://cdn.simpleicons.org/datadog/632CA6" /></code>
+[![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com)
+[![Azure](https://img.shields.io/badge/Azure-0072C6?style=flat-square&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com)
+[![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](https://cloud.google.com)
+[![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)](https://digitalocean.com)
+[![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)](https://docker.com)
+[![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)](https://nginx.org)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://vercel.com)
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)](https://cloudflare.com)
+[![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)](https://git-scm.com)
+[![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)](https://datadoghq.com)
 
-<!-- ═══════ DATABASES ═══════ -->
 **🗄️ data vaults**
 
-<code><img height="22" src="https://cdn.simpleicons.org/postgresql/316192" /></code>
-<code><img height="22" src="https://cdn.simpleicons.org/mysql/4479A1" /></code>
-<code><img height="22" src="https://cdn.simpleicons.org/mongodb/4EA94B" /></code>
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)](https://postgresql.org)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://mysql.com)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)](https://mongodb.com)
 
 ---
 
@@ -127,44 +121,21 @@ I architect **scalable systems** and train **intelligent models**. My sweet spot
 
 <div align="center">
 
-<table>
-<tr>
-<td>
 
-<img src="https://github-readme-stats.vercel.app/api?username=vaungsophal&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&card_width=380" />
+<img src="https://streak-stats.demolab.com/?user=vaungsophal&theme=midnight-purple&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=c9d1d9" width="65%" />
 
-</td>
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaungsophal&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&card_width=320" />
-
-</td>
-</tr>
-</table>
-
-<img src="https://streak-stats.demolab.com/?user=vaungsophal&theme=midnight-purple&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=c9d1d9" width="85%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vaungsophal&theme=react-dark&hide_border=true&bg_color=0d1117&color=a78bfa&line=f472b6&point=ffffff" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vaungsophal&theme=react-dark&hide_border=true&bg_color=0d1117&color=a78bfa&line=f472b6&point=ffffff" width="75%" />
 
 </div>
 
----
 
-### 🏆 trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vaungsophal&theme=discord&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" width="100%" />
-
-</div>
-
----
+--- 
 
 ### 💬 wisdom
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="75%" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="85%" />
 
 </div>
 
@@ -184,15 +155,8 @@ I architect **scalable systems** and train **intelligent models**. My sweet spot
 
 <a href="https://buymeacoffee.com/vaungsophal"><img src="https://img.shields.io/badge/☕_fuel_my_code-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" /></a>
 
-<br><br>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=vaungsophal&label=👁️_visitors&color=a78bfa&style=flat-square" />
 
 </div>
-'''
-
-with open('/mnt/agents/output/README.md', 'w', encoding='utf-8') as f:
-    f.write(readme_content)
-
-print("README.md created successfully!")
-print(f"File size: {len(readme_content)} characters")
