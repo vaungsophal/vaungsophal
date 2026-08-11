@@ -19,8 +19,8 @@
 <br>
 
 <a href="https://linkedin.com/in/sophal-vaung"><img src="https://img.shields.io/badge/🔗_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:sophalvaung@gmail.com"><img src="https://img.shields.io/badge/📧_Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://buymeacoffee.com/vaungsophal"><img src="https://img.shields.io/badge/☕_Buy_Me_A_Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" /></a>
+<a href="mailto:sophalvaung@gmail.com"><img src="https://img.shields.io/badge/_Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://buymeacoffee.com/vaungsophal"><img src="https://img.shields.io/badge/_Buy_Me_A_Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" /></a>
 
 </div>
 
