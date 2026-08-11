@@ -108,7 +108,7 @@ Untracked files:
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://vercel.com)
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)](https://cloudflare.com)
 [![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)](https://git-scm.com)
-[![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)](https://datadoghq.com)
+
 
 **🗄️ data vaults**
 
@@ -153,11 +153,8 @@ Untracked files:
 <a href="mailto:sophalvaung@gmail.com"><img src="https://img.shields.io/badge/📧_Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 
 <br>
-
 <a href="https://buymeacoffee.com/vaungsophal"><img src="https://img.shields.io/badge/☕_fuel_my_code-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" /></a>
-
 <br>
-
 <img src="https://komarev.com/ghpvc/?username=vaungsophal&label=👁️_visitors&color=a78bfa&style=flat-square" />
 
 </div>
