@@ -3,7 +3,6 @@
 <pre>
 
 ║           Full-Stack Dev × AI Engineer        ║
-
 </pre>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=a78bfa&center=true&vCenter=true&width=500&lines=def+build_the_future():+pass;while+True:+learn();+create();+ship();pip+install+intelligence;import+torch;model.train();rm+-rf+/doubt;git+commit+-m+%22ship+it%22" alt="typing" />
@@ -12,7 +11,7 @@
 
 <a href="https://linkedin.com/in/sophal-vaung"><img src="https://img.shields.io/badge/🔗_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:sophalvaung@gmail.com"><img src="https://img.shields.io/badge/_Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://buymeacoffee.com/vaungsophal"><img src="https://img.shields.io/badge/_Buy_Me_A_Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" /></a>
+<a href="https://vaungsophal.dev"><img src="https://img.shields.io/badge/_Buy_Me_A_Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" /></a>
 
 </div>
 
@@ -145,7 +144,7 @@ Untracked files:
 <a href="mailto:sophalvaung@gmail.com"><img src="https://img.shields.io/badge/_Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 
 <br>
-<a href="https://buymeacoffee.com/vaungsophal"><img src="https://img.shields.io/badge/_fuel_my_code-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" /></a>
+<a href="https://vaungsophal.dev"><img src="https://img.shields.io/badge/_fuel_my_code-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" /></a>
 <br>
 <img src="https://komarev.com/ghpvc/?username=vaungsophal&label=👁️_visitors&color=a78bfa&style=flat-square" />
 
