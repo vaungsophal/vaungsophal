@@ -150,10 +150,10 @@ Untracked files:
 *let's build something that ships and learns.*
 
 <a href="https://linkedin.com/in/sophal-vaung"><img src="https://img.shields.io/badge/🔗_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:sophalvaung@gmail.com"><img src="https://img.shields.io/badge/📧_Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="mailto:sophalvaung@gmail.com"><img src="https://img.shields.io/badge/_Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 
 <br>
-<a href="https://buymeacoffee.com/vaungsophal"><img src="https://img.shields.io/badge/☕_fuel_my_code-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" /></a>
+<a href="https://buymeacoffee.com/vaungsophal"><img src="https://img.shields.io/badge/_fuel_my_code-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" /></a>
 <br>
 <img src="https://komarev.com/ghpvc/?username=vaungsophal&label=👁️_visitors&color=a78bfa&style=flat-square" />
 
