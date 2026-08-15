@@ -1,17 +1,9 @@
 <div align="center">
 
 <pre>
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║   ███████╗ ██████╗ ██████╗ ██╗  ██╗ █████╗ ██╗         ██╗   ██╗   ║
-║   ██╔════╝██╔═══██╗██╔══██╗██║  ██║██╔══██╗██║         ██║   ██║   ║
-║   ███████╗██║   ██║██████╔╝███████║███████║██║         ██║   ██║   ║
-║   ╚════██║██║   ██║██╔═══╝ ██╔══██║██╔══██║██║         ██║   ██║   ║
-║   ███████║╚██████╔╝██║     ██║  ██║██║  ██║███████╗    ╚██████╔╝   ║
-║   ╚══════╝ ╚═════╝ ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝     ╚═════╝    ║
-║                                                                      ║
-║              Full-Stack Dev × AI/ML Engineer × Problem Solver        ║
-╚══════════════════════════════════════════════════════════════════════╝
+
+║           Full-Stack Dev × AI Engineer        ║
+
 </pre>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=a78bfa&center=true&vCenter=true&width=500&lines=def+build_the_future():+pass;while+True:+learn();+create();+ship();pip+install+intelligence;import+torch;model.train();rm+-rf+/doubt;git+commit+-m+%22ship+it%22" alt="typing" />
