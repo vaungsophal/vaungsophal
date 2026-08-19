@@ -123,7 +123,7 @@ I architect **scalable systems** and **taste**. My sweet spot is where robust ba
 **got an idea at the intersection of code & intelligence?**<br>
 *let's build something that ships and learns.*
 
-<a href="https://linkedin.com/in/sophal-vaung"><img src="https://img.shields.io/badge/🔗_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/sophal-vaung"><img src="https://img.shields.io/badge/_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:sophalvaung@gmail.com"><img src="https://img.shields.io/badge/_Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 
 <br>
