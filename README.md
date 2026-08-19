@@ -29,27 +29,10 @@ sophal   1338  0.0  0.1  coding   node     server.js
 sophal   1339  0.0  0.1  thinking vim     architecture.md
 ```
 
-I architect **scalable systems** and train **intelligent models**. My sweet spot is where robust backend engineering meets cutting-edge AI — building products that don't just work, but *think*.
+I architect **scalable systems** and **taste**. My sweet spot is where robust backend engineering meets cutting-edge AI — building products that don't just work, but *think*.
 
 > *"The best code is the one that learns from its data."*
 
----
-
-### ⚡ git status
-
-```text
-On branch main
-Your branch is ahead of 'origin/main' by 5 commits.
-
-Changes to be committed:
-  🚀  feat:      shipping AI-integrated full-stack apps
-  🌱  learn:     diving into LLM fine-tuning & MLOps
-  🤝  collab:    open to AI × SaaS projects
-  🔬  explore:   multimodal models & vector databases
-
-Untracked files:
-  ⚡  fun-fact:  my best bugs become my best features
-```
 
 ---
 
