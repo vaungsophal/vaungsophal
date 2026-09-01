@@ -4,7 +4,6 @@
 
 ║   Full-Stack Dev × AI Engineer   ║
 </pre>
-<a href="https://www.vaungsophal.dev/"> <img src="https://img.shields.io/badge/_view_my_work-8B5CF6?style=flat-square&logo=google-chrome&logoColor=white" /> </a>
 </div>
 
 ---
