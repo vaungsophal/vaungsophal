@@ -38,6 +38,6 @@ I architect **system** that **scalable** and **taste**. My sweet spot is where r
   → let's build something that works.
   <br>
   <br> 
-  <a href="https://www.vaungsophal.dev/"> <img src="https://img.shields.io/badge/_view_my_work-8B5CF6?style=flat-square&logo=google-chrome&logoColor=white" /> </a> &nbsp; 
+ <a href="https://www.vaungsophal.dev/"> <img src="https://img.shields.io/badge/_view_my_work-F97316?style=flat-square&logo=google-chrome&logoColor=white" /> </a> &nbsp;
   <img src="https://komarev.com/ghpvc/?username=vaungsophal&label=_visitors_&color=a78bfa&style=flat-square" /> 
 </div>
