@@ -5,7 +5,7 @@
 ║   Full-Stack Dev × AI Engineer   ║
 </pre>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=a78bfa&center=true&vCenter=true&width=500&lines=a freelancer;while+True:+learn();+create();+ship()" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=a78bfa&center=true&vCenter=true&width=500&lines=freelancer;while+True:+learn();+create();+ship()" alt="typing" />
 
 <br>
 
