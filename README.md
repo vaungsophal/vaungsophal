@@ -4,13 +4,12 @@
 
 ║   Full-Stack Dev × AI Engineer   ║
 </pre>
-
+<a href="https://www.vaungsophal.dev/"> <img src="https://img.shields.io/badge/_view_my_work-8B5CF6?style=flat-square&logo=google-chrome&logoColor=white" /> </a>
 </div>
 
-### Hi there 👋
 ---
 
-### 🧬 whoami
+### hi there 👋
 
 ```
 $ cat /etc/passwd | grep sophal
@@ -29,15 +28,17 @@ I architect **system** that **scalable** and **taste**. My sweet spot is where r
 
 --- 
 
-### 🤝 handshake
+### handshake 🤝
 
-<div align="center">
-**got an idea at the intersection of code & intelligence?**<br>
-*let's build something that ships and learns.*
+<div 
+  align="center">
 
-<br>
-<a href="https://vaungsophal.dev"><img src="https://img.shields.io/badge/_fuel_my_code-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" /></a>
-<br>
-<img src="https://komarev.com/ghpvc/?username=vaungsophal&label=👁️_visitors&color=a78bfa&style=flat-square" />
-
+  got an idea? let's turn it into something real.
+  from concept to production — I build web apps, AI-powered tools, and systems that actually ship.
+  
+  → let's build something that works.
+  <br>
+  <br> 
+  <a href="https://www.vaungsophal.dev/"> <img src="https://img.shields.io/badge/_view_my_work-8B5CF6?style=flat-square&logo=google-chrome&logoColor=white" /> </a> &nbsp; 
+  <img src="https://komarev.com/ghpvc/?username=vaungsophal&label=_visitors_&color=a78bfa&style=flat-square" /> 
 </div>
