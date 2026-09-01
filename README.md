@@ -5,15 +5,9 @@
 ║   Full-Stack Dev × AI Engineer   ║
 </pre>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=a78bfa&center=true&vCenter=true&width=500&lines=freelancer;while+True:+learn();+create();+ship()" alt="typing" />
-
-<br>
-
-<a href="https://linkedin.com/in/sophal-vaung"><img src="https://img.shields.io/badge/_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:sophalvaung@gmail.com"><img src="https://img.shields.io/badge/_Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-
 </div>
 
+### Hi there 👋
 ---
 
 ### 🧬 whoami
@@ -28,7 +22,7 @@ sophal   1338  0.0  0.1  coding   node     server.js
 sophal   1339  0.0  0.1  thinking vim     architecture.md
 ```
 
-I architect **scalable systems** and **taste**. My sweet spot is where robust backend engineering meets cutting-edge AI — building products that don't just work, but *think*.
+I architect **system** that **scalable** and **taste**. My sweet spot is where robust backend engineering meets cutting-edge AI — building products that don't just work, but *think*.
 
 > *"The best code is the one that learns from its data."*
 
@@ -50,7 +44,7 @@ I architect **scalable systems** and **taste**. My sweet spot is where robust ba
 [![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)](https://mlflow.org)
 [![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)](https://plotly.com)
 
-**engine room + user surface**
+**engine room / surface**
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://java.com)
 [![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp)
@@ -67,7 +61,7 @@ I architect **scalable systems** and **taste**. My sweet spot is where robust ba
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://figma.com)
 
-**infrastructure + data vaults**
+**infrastructure / data vaults**
 
 [![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com)
 [![Azure](https://img.shields.io/badge/Azure-0072C6?style=flat-square&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com)
@@ -88,12 +82,9 @@ I architect **scalable systems** and **taste**. My sweet spot is where robust ba
 ### 🤝 handshake
 
 <div align="center">
-
 **got an idea at the intersection of code & intelligence?**<br>
 *let's build something that ships and learns.*
 
-<a href="https://linkedin.com/in/sophal-vaung"><img src="https://img.shields.io/badge/_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:sophalvaung@gmail.com"><img src="https://img.shields.io/badge/_Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 <br>
 <a href="https://vaungsophal.dev"><img src="https://img.shields.io/badge/_fuel_my_code-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" /></a>
 <br>
