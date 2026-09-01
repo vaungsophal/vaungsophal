@@ -11,7 +11,6 @@
 
 <a href="https://linkedin.com/in/sophal-vaung"><img src="https://img.shields.io/badge/_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:sophalvaung@gmail.com"><img src="https://img.shields.io/badge/_Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://vaungsophal.dev"><img src="https://img.shields.io/badge/_Buy_Me_A_Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" /></a>
 
 </div>
 
@@ -89,19 +88,6 @@ I architect **scalable systems** and **taste**. My sweet spot is where robust ba
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)](https://postgresql.org)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://mysql.com)
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)](https://mongodb.com)
-
----
-
-### 📊 metrics
-
-<div align="center">
-
-
-<img src="https://streak-stats.demolab.com/?user=vaungsophal&theme=midnight-purple&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=c9d1d9" width="65%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vaungsophal&theme=react-dark&hide_border=true&bg_color=0d1117&color=a78bfa&line=f472b6&point=ffffff" width="75%" />
-
-</div>
 
 
 --- 
